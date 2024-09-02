@@ -1,1 +1,2 @@
 # AnewWorld
+This is all new and many things to learn
